@@ -1,0 +1,18 @@
+PRIYA SHARMA
+Data Analyst | priya@example.com
+
+SUMMARY
+Data analyst with 3 years of experience in reporting and dashboard development.
+
+TECHNICAL SKILLS
+SQL, Excel, Power BI, Python, Tableau
+
+EXPERIENCE
+Data Analyst, Insight Ltd (2021-2024)
+Created Power BI dashboards and automated weekly reports using Python.
+
+EDUCATION
+M.Sc. Statistics, University of Madras, 2021
+
+STRENGTHS
+Analytical thinking, communication, data visualization

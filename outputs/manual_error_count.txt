@@ -1,0 +1,5 @@
+Manual verification pending.
+After reviewing 3 model outputs against source resumes, enter:
+Resumes reviewed: 3
+Total field-level errors: <count>
+Unsupported/invented facts: <count>

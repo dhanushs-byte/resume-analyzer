@@ -1,0 +1,10 @@
+resume_file,field,source_evidence,model_output,correct(yes/no),error_notes
+resume_01.txt,candidate_name,,,,
+resume_01.txt,skills,,,,
+resume_01.txt,years_of_experience,,,,
+resume_02.txt,candidate_name,,,,
+resume_02.txt,skills,,,,
+resume_02.txt,education,,,,
+resume_03.txt,candidate_name,,,,
+resume_03.txt,skills,,,,
+resume_03.txt,years_of_experience,,,,

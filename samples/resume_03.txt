@@ -1,0 +1,18 @@
+MOHAMMED FAIZ
+Java Backend Developer
+
+CONTACT
+faiz@example.com
+
+SKILLS
+Java, Spring Boot, MySQL, REST API, Maven
+
+WORK EXPERIENCE
+Software Engineer - Delta Systems (2023-Present)
+Developed Spring Boot microservices and integrated MySQL databases.
+
+EDUCATION
+B.Tech Information Technology, 2023
+
+STRENGTHS
+Backend development, debugging

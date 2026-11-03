@@ -1,0 +1,18 @@
+ARUN KUMAR | RESUME
+Email: arun@example.com | Chennai
+
+PROFESSIONAL SUMMARY
+Python developer with 2 years of experience building REST APIs and automation tools.
+
+SKILLS
+Python, FastAPI, SQL, Git, Docker, Pandas
+
+EXPERIENCE
+Python Developer - ABC Tech (2022-2024)
+Built REST APIs using FastAPI and optimized SQL queries. Worked with a team of four engineers.
+
+EDUCATION
+B.E. Computer Science, Anna University, 2022
+
+STRENGTHS
+Problem solving, API development, teamwork

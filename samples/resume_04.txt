@@ -1,0 +1,18 @@
+ANITA RAO
+Machine Learning Engineer | anita@example.com
+
+PROFILE
+Entry-level ML engineer with internship experience in predictive modeling.
+
+SKILLS
+Python, Scikit-learn, TensorFlow, NumPy, Pandas, Machine Learning
+
+EXPERIENCE
+ML Intern - LearnLab (Jan 2024-Jun 2024)
+Prepared datasets and trained classification models. Evaluated models using F1-score.
+
+EDUCATION
+B.E. Electronics and Communication, 2024
+
+STRENGTHS
+Research, experimentation, critical thinking
