@@ -1,0 +1,14 @@
+{
+  "description": "Build Python applications and REST APIs. Required skills: Python, FastAPI, SQL, REST API, Git, Docker. Preferred: Pandas.",
+  "required_skills": [
+    "Python",
+    "FastAPI",
+    "SQL",
+    "REST API",
+    "Git",
+    "Docker"
+  ],
+  "preferred_skills": [
+    "Pandas"
+  ]
+}

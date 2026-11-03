@@ -1,0 +1,15 @@
+{
+  "description": "Analyze datasets, write SQL queries, create dashboards and communicate insights. Required skills: SQL, Excel, Power BI, Python, Statistics, Data Visualization. Preferred: Tableau, Pandas.",
+  "required_skills": [
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Python",
+    "Statistics",
+    "Data Visualization"
+  ],
+  "preferred_skills": [
+    "Tableau",
+    "Pandas"
+  ]
+}

@@ -1,0 +1,4 @@
+1. Automated scores may reflect biased patterns in historical hiring data and can disadvantage underrepresented groups.
+2. Resume wording, career gaps, education access and language differences can affect scores even when job ability is similar.
+3. A score is only a decision-support signal; it must not be the sole reason to reject or shortlist a candidate.
+4. A human reviewer should check evidence against job-related criteria, investigate anomalies, provide accommodations and allow candidates to correct errors.

@@ -1,0 +1,6 @@
+VIKRAM P
+Fresher - Data Science
+0 years experience
+Skills: Python, Pandas, NumPy, SQL, Matplotlib, Machine Learning
+Completed academic projects in data cleaning and predictive modeling.
+Education: B.Tech AI & DS

@@ -1,0 +1,111 @@
+[
+  {
+    "candidate": "Arun Kumar",
+    "years_of_experience": 3,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "REST API",
+      "Git",
+      "Docker",
+      "Pandas"
+    ],
+    "summary": "Backend APIs and data processing pipelines."
+  },
+  {
+    "candidate": "Priya Sharma",
+    "years_of_experience": 2,
+    "skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "Pandas",
+      "Statistics"
+    ],
+    "summary": "Dashboards, data cleaning and business reporting."
+  },
+  {
+    "candidate": "Karthik Raj",
+    "years_of_experience": 4,
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "SQL",
+      "Git"
+    ],
+    "summary": "Classification models and ML prototypes."
+  },
+  {
+    "candidate": "Meena S",
+    "years_of_experience": 1,
+    "skills": [
+      "Python",
+      "Flask",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "summary": "CRUD applications and REST endpoints."
+  },
+  {
+    "candidate": "Rahul Verma",
+    "years_of_experience": 5,
+    "skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "summary": "KPI dashboards and sales trend analysis."
+  },
+  {
+    "candidate": "Nisha Devi",
+    "years_of_experience": 3,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "REST API"
+    ],
+    "summary": "Microservices and backend integrations."
+  },
+  {
+    "candidate": "Vikram P",
+    "years_of_experience": 0,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Matplotlib",
+      "Machine Learning"
+    ],
+    "summary": "Academic data cleaning and predictive modeling projects."
+  },
+  {
+    "candidate": "Sana Khan",
+    "years_of_experience": 2,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "ETL",
+      "Data Cleaning"
+    ],
+    "summary": "Recurring reports and dashboard maintenance."
+  }
+]

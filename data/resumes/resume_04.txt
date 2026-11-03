@@ -1,0 +1,6 @@
+MEENA S
+Junior Python Developer
+1 year experience
+Skills: Python, Flask, MySQL, HTML, CSS, Git
+Created CRUD applications and basic REST endpoints.
+Education: B.E Information Technology

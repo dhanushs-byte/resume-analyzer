@@ -1,0 +1,17 @@
+job,rank,candidate,score,repeat_score,consistent,keyword_match_score,matched_skills,missing_skills,reasoning
+Python Developer,1,Arun Kumar,96.0,96.0,True,100.0,"Python, FastAPI, SQL, REST API, Git, Docker",None,Matched 6/6 required skills; 1 preferred skills matched; 3 years of experience contributed to the score.
+Python Developer,2,Nisha Devi,59.33,59.33,True,66.67,"Python, REST API, Git, Docker","FastAPI, SQL",Matched 4/6 required skills; 0 preferred skills matched; 3 years of experience contributed to the score.
+Python Developer,3,Karthik Raj,48.0,48.0,True,50.0,"Python, SQL, Git","FastAPI, REST API, Docker",Matched 3/6 required skills; 0 preferred skills matched; 4 years of experience contributed to the score.
+Python Developer,4,Priya Sharma,40.67,40.67,True,33.33,"Python, SQL","FastAPI, REST API, Git, Docker",Matched 2/6 required skills; 1 preferred skills matched; 2 years of experience contributed to the score.
+Python Developer,5,Rahul Verma,36.67,36.67,True,33.33,"Python, SQL","FastAPI, REST API, Git, Docker",Matched 2/6 required skills; 0 preferred skills matched; 5 years of experience contributed to the score.
+Python Developer,6,Vikram P,36.67,36.67,True,33.33,"Python, SQL","FastAPI, REST API, Git, Docker",Matched 2/6 required skills; 1 preferred skills matched; 0 years of experience contributed to the score.
+Python Developer,7,Sana Khan,30.67,30.67,True,33.33,"Python, SQL","FastAPI, REST API, Git, Docker",Matched 2/6 required skills; 0 preferred skills matched; 2 years of experience contributed to the score.
+Python Developer,8,Meena S,28.67,28.67,True,33.33,"Python, Git","FastAPI, SQL, REST API, Docker",Matched 2/6 required skills; 0 preferred skills matched; 1 years of experience contributed to the score.
+Data Analyst,1,Rahul Verma,95.0,95.0,True,100.0,"SQL, Excel, Power BI, Python, Statistics, Data Visualization",None,Matched 6/6 required skills; 1 preferred skills matched; 5 years of experience contributed to the score.
+Data Analyst,2,Priya Sharma,80.67,80.67,True,83.33,"SQL, Excel, Power BI, Python, Statistics",Data Visualization,Matched 5/6 required skills; 2 preferred skills matched; 2 years of experience contributed to the score.
+Data Analyst,3,Sana Khan,57.33,57.33,True,66.67,"SQL, Excel, Power BI, Python","Statistics, Data Visualization",Matched 4/6 required skills; 0 preferred skills matched; 2 years of experience contributed to the score.
+Data Analyst,4,Arun Kumar,37.67,37.67,True,33.33,"SQL, Python","Excel, Power BI, Statistics, Data Visualization",Matched 2/6 required skills; 1 preferred skills matched; 3 years of experience contributed to the score.
+Data Analyst,5,Karthik Raj,34.67,34.67,True,33.33,"SQL, Python","Excel, Power BI, Statistics, Data Visualization",Matched 2/6 required skills; 0 preferred skills matched; 4 years of experience contributed to the score.
+Data Analyst,6,Vikram P,31.67,31.67,True,33.33,"SQL, Python","Excel, Power BI, Statistics, Data Visualization",Matched 2/6 required skills; 1 preferred skills matched; 0 years of experience contributed to the score.
+Data Analyst,7,Nisha Devi,19.33,19.33,True,16.67,Python,"SQL, Excel, Power BI, Statistics, Data Visualization",Matched 1/6 required skills; 0 preferred skills matched; 3 years of experience contributed to the score.
+Data Analyst,8,Meena S,15.33,15.33,True,16.67,Python,"SQL, Excel, Power BI, Statistics, Data Visualization",Matched 1/6 required skills; 0 preferred skills matched; 1 years of experience contributed to the score.

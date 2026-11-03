@@ -1,0 +1,6 @@
+NISHA DEVI
+Software Engineer
+3 years experience
+Skills: Java, Spring Boot, Python, PostgreSQL, Docker, Git, REST API
+Built microservices and integrated backend services.
+Education: B.Tech

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "candidate": "Alex Example",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "SQL",
+      "Git"
+    ],
+    "summary": "Developer experienced in Python and data processing."
+  },
+  "attempts": 2,
+  "token_usage": {
+    "input_tokens_estimated": 34,
+    "output_tokens_estimated": 17
+  }
+}

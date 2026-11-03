@@ -1,0 +1,6 @@
+KARTHIK RAJ
+Machine Learning Engineer
+4 years experience
+Skills: Python, Scikit-learn, TensorFlow, PyTorch, NLP, SQL, Git
+Developed classification models and deployed ML prototypes.
+Education: M.Sc Data Science

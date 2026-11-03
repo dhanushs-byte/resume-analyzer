@@ -1,0 +1,6 @@
+ARUN KUMAR
+Python Developer
+3 years of experience
+Skills: Python, FastAPI, SQL, REST API, Git, Docker, Pandas
+Built backend APIs and automated data processing pipelines.
+Education: B.Tech Computer Science
