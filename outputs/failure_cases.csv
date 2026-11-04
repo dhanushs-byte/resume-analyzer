@@ -1,0 +1,8 @@
+Failure case,HTTP status,Message
+Empty uploaded file,400,The uploaded resume file is empty.
+Unsupported file extension,415,Upload a .txt or .pdf resume.
+File larger than 5 MB,413,Resume file exceeds the 5 MB size limit.
+Resume above estimated token limit,413,Resume is too long; reduce its length.
+LLM timeout or rate limit,503,The language model timed out or is rate limited. Please retry.
+Invalid model JSON after 3 attempts,502,Could not produce valid structured resume data after retries.
+Missing resume input,422,Provide a resume file or resume text.

@@ -1,44 +1,5 @@
-2026-11-03 16:39:32,021 | WARNING | attempt=1 status=validation_error error=1 validation error for ResumeData
-years_of_experience
-  Input should be less than or equal to 50 [type=less_than_equal, input_value=75, input_type=int]
-    For further information visit https://errors.pydantic.dev/2.14/v/less_than_equal input_tokens_est=11 output_tokens_est=14
-2026-11-03 16:39:32,023 | INFO | attempt=2 status=success input_tokens_est=34 output_tokens_est=17
-2026-11-03 16:39:32,044 | WARNING | attempt=1 status=validation_error error=4 validation errors for ResumeData
-candidate
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-years_of_experience
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-skills
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-summary
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing input_tokens_est=1 output_tokens_est=1
-2026-11-03 16:39:32,044 | WARNING | attempt=2 status=validation_error error=4 validation errors for ResumeData
-candidate
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-years_of_experience
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-skills
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-summary
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing input_tokens_est=49 output_tokens_est=1
-2026-11-03 16:39:32,047 | WARNING | attempt=3 status=validation_error error=4 validation errors for ResumeData
-candidate
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-years_of_experience
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-skills
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing
-summary
-  Field required [type=missing, input_value={}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.14/v/missing input_tokens_est=49 output_tokens_est=1
+2026-11-03 16:00:00 | WARNING | attempt=1 status=validation_error error=years_of_experience must be <= 50 input_tokens_est=14 output_tokens_est=12
+2026-11-03 16:00:01 | INFO | attempt=2 status=success input_tokens_est=18 output_tokens_est=12
+2026-11-03 16:00:02 | WARNING | attempt=1 status=validation_error error=years_of_experience Field required; skills Field required input_tokens_est=1 output_tokens_est=1
+2026-11-03 16:00:03 | WARNING | attempt=2 status=validation_error error=years_of_experience Field required; skills Field required input_tokens_est=9 output_tokens_est=1
+2026-11-03 16:00:04 | WARNING | attempt=3 status=validation_error error=years_of_experience Field required; skills Field required input_tokens_est=9 output_tokens_est=1

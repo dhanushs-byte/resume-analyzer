@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "baseline": {
+      "macro_precision": 1.0,
+      "macro_recall": 0.975,
+      "macro_f1": 0.9861,
+      "exact_match_accuracy": 0.875
+    },
+    "improved": {
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "exact_match_accuracy": 1.0
+    },
+    "average_score_difference_between_two_deterministic_runs": 0.0,
+    "note": "Offline deterministic keyword extraction; not a real LLM evaluation."
+  },
+  "per_resume": [
+    {
+      "resume_id": "resume_01",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_02",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_03",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_04",
+      "baseline_precision": 1.0,
+      "baseline_recall": 0.8,
+      "baseline_f1": 0.8889,
+      "baseline_exact_match": 0,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_05",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_06",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_07",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    },
+    {
+      "resume_id": "resume_08",
+      "baseline_precision": 1.0,
+      "baseline_recall": 1.0,
+      "baseline_f1": 1.0,
+      "baseline_exact_match": 1,
+      "improved_precision": 1.0,
+      "improved_recall": 1.0,
+      "improved_f1": 1.0,
+      "improved_exact_match": 1
+    }
+  ]
+}

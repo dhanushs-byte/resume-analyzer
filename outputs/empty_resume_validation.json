@@ -1,6 +1,6 @@
 {
   "success": false,
   "error": "Validation failed after 3 attempts.",
-  "details": "4 validation errors for ResumeData\ncandidate\n  Field required [type=missing, input_value={}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing\nyears_of_experience\n  Field required [type=missing, input_value={}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing\nskills\n  Field required [type=missing, input_value={}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing\nsummary\n  Field required [type=missing, input_value={}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing",
+  "details": "3 validation errors for ResumeData ...",
   "attempts": 3
 }

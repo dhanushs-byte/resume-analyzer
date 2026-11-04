@@ -1,0 +1,102 @@
+[
+  {
+    "resume_id": "resume_01",
+    "text": "ARUN KUMAR\n3 years experience. Skills: Python, FastAPI, SQL, REST API, Git, Docker, Pandas. Built HTTP endpoints and dataframe operations.",
+    "expected_skills": [
+      "python",
+      "fastapi",
+      "sql",
+      "rest api",
+      "git",
+      "docker",
+      "pandas"
+    ]
+  },
+  {
+    "resume_id": "resume_02",
+    "text": "PRIYA SHARMA\n2 years experience. Skills: SQL, Python, Excel, Power BI, Tableau, Pandas, Statistics. Built spreadsheets and business intelligence dashboards.",
+    "expected_skills": [
+      "sql",
+      "python",
+      "excel",
+      "power bi",
+      "tableau",
+      "pandas",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": "resume_03",
+    "text": "KARTHIK RAJ\n4 years experience. Skills: Python, Scikit-learn, TensorFlow, PyTorch, NLP, SQL, Git. Worked in natural language processing.",
+    "expected_skills": [
+      "python",
+      "scikit-learn",
+      "tensorflow",
+      "pytorch",
+      "nlp",
+      "sql",
+      "git"
+    ]
+  },
+  {
+    "resume_id": "resume_04",
+    "text": "MEENA S\n1 year experience. Skills: Python, Flask, MySQL, Git. Created REST endpoints.",
+    "expected_skills": [
+      "python",
+      "flask",
+      "mysql",
+      "git",
+      "rest api"
+    ]
+  },
+  {
+    "resume_id": "resume_05",
+    "text": "RAHUL VERMA\n5 years experience. Skills: Excel, SQL, Power BI, Tableau, Python, Data Visualization, Statistics. Created data charts and dashboards.",
+    "expected_skills": [
+      "excel",
+      "sql",
+      "power bi",
+      "tableau",
+      "python",
+      "data visualization",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": "resume_06",
+    "text": "NISHA DEVI\n3 years experience. Skills: Java, Spring Boot, Python, PostgreSQL, Docker, Git, REST API. Built containers and HTTP endpoints.",
+    "expected_skills": [
+      "java",
+      "spring boot",
+      "python",
+      "postgresql",
+      "docker",
+      "git",
+      "rest api"
+    ]
+  },
+  {
+    "resume_id": "resume_07",
+    "text": "VIKRAM P\n0 years experience. Skills: Python, Pandas, NumPy, SQL, Matplotlib, Machine Learning. Used numerical arrays and predictive modeling.",
+    "expected_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "matplotlib",
+      "machine learning"
+    ]
+  },
+  {
+    "resume_id": "resume_08",
+    "text": "SANA KHAN\n2 years experience. Skills: SQL, Excel, Power BI, Python, ETL, Data Cleaning. Used spreadsheets and business intelligence dashboards.",
+    "expected_skills": [
+      "sql",
+      "excel",
+      "power bi",
+      "python",
+      "etl",
+      "data cleaning"
+    ]
+  }
+]
